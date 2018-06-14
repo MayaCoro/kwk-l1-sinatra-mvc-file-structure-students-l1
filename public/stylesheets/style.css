@@ -1,0 +1,12 @@
+body {
+  background: #8ACBE8;
+}
+
+.fortune {
+  font-size: 200%;
+     background-color: #8920FF;
+     text-align: center;
+     font-family: Arial;
+     border: 10px solid #B7FFBE;
+     letter-spacing: 15px;
+}
